@@ -1,0 +1,4 @@
+.env
+video_audio_transcriber/settings.py
+__pycache__
+migrations
